@@ -5,8 +5,9 @@ import os
 DEBUG = False
 
 PLUGINS = [
-    'slackbot.plugins',
+    'slackbot.kinoko_plugins'
 ]
+#     'slackbot.plugins',
 
 ERRORS_TO = None
 
